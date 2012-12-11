@@ -21,12 +21,31 @@
 			margin: auto;
 			border: 1px solid #555;
 		}
-	</style>
 
+        .message {
+            position: absolute;
+            left: 0;
+            right: 0;
+            top: 0;
+            bottom: 0;
+            margin: auto;
+            color: #000;
+            background-color: #ccc;
+            width: 200px;
+            height: 200px;
+            text-align: center;
+            padding: 50px;
+            display: none;
+        }
+
+	</style>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
 	<script type="text/javascript" src="lib/impact/impact.js"></script>
 	<script type="text/javascript" src="lib/game/main.js"></script>
 </head>
 <body>
 	<canvas id="canvas"></canvas>
+<div style="text-align: center; padding: 40px;">use the arrow keys to move. Spacebar to jump.</div>
+<div class="message"></div>
 </body>
 </html>
