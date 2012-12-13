@@ -1,12 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1cc3d48-e8ef-4078-be85-6a043b55f4f2" name="Default" comment="">
+    <list default="true" id="c765aa09-8837-4407-a12c-e4483b293444" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/game/entities/exit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/game/entities/stop-elevator-music.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/plugins/thumbpad.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/sfx/CASH.wav" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/present.png" afterPath="$PROJECT_DIR$/media/present.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/sfx/fall.mp3" afterPath="$PROJECT_DIR$/media/sfx/fall.mp3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/sfx/jump.mp3" afterPath="$PROJECT_DIR$/media/sfx/jump.mp3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/balmain_xmas.iml" afterPath="$PROJECT_DIR$/.idea/balmain_xmas.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/sass_stdlib.xml" afterPath="$PROJECT_DIR$/.idea/libraries/sass_stdlib.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-<<<<<<< HEAD
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/game/entities/blocker.js" afterPath="$PROJECT_DIR$/lib/game/entities/blocker.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/game/entities/elevator-music.js" afterPath="$PROJECT_DIR$/lib/game/entities/elevator-music.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/game/entities/elevator.js" afterPath="$PROJECT_DIR$/lib/game/entities/elevator.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/game/entities/escalator.js" afterPath="$PROJECT_DIR$/lib/game/entities/escalator.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/game/entities/giftbag.js" afterPath="$PROJECT_DIR$/lib/game/entities/giftbag.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/game/entities/player.js" afterPath="$PROJECT_DIR$/lib/game/entities/player.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/game/levels/level1.js" afterPath="$PROJECT_DIR$/lib/game/levels/level1.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/game/levels/main.js" afterPath="$PROJECT_DIR$/lib/game/levels/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/game/levels/room1.js" afterPath="$PROJECT_DIR$/lib/game/levels/room1.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/game/levels/room2.js" afterPath="$PROJECT_DIR$/lib/game/levels/room2.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/game/levels/room3.js" afterPath="$PROJECT_DIR$/lib/game/levels/room3.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/game/levels/room4.js" afterPath="$PROJECT_DIR$/lib/game/levels/room4.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/game/main.js" afterPath="$PROJECT_DIR$/lib/game/main.js" />
-=======
->>>>>>> Adding levels and images
     </list>
     <ignored path="balmain_xmas.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,55 +51,10 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/game/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="82" column="31" selection-start="2453" selection-end="2453" vertical-scroll-proportion="0.6638756">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="hurt.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/game/entities/hurt.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="7" selection-start="0" selection-end="840" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fall.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/game/entities/fall.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="36" selection-start="659" selection-end="660" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="elevator-music.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/game/entities/elevator-music.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="0" selection-start="1140" selection-end="1140" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="blocker.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/game/entities/blocker.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="trigger.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/game/entities/trigger.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="55" column="4" selection-start="1213" selection-end="1213" vertical-scroll-proportion="0.0">
+            <state line="72" column="30" selection-start="2006" selection-end="2006" vertical-scroll-proportion="-14.423077">
               <folding />
             </state>
           </provider>
@@ -83,16 +63,56 @@
       <file leaf-file-name="elevator.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/game/entities/elevator.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="8" selection-start="639" selection-end="643" vertical-scroll-proportion="0.0">
+            <state line="63" column="81" selection-start="1302" selection-end="1369" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="escalator.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/game/entities/escalator.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="68" column="24" selection-start="3707" selection-end="3707" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mover.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/game/entities/mover.js">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="56" column="36" selection-start="1447" selection-end="1447" vertical-scroll-proportion="0.0">
+            <state line="22" column="27" selection-start="500" selection-end="500" vertical-scroll-proportion="-6.0416665">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="levelchange.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/game/entities/levelchange.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="49" column="3" selection-start="0" selection-end="922" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="exit.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/game/entities/exit.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="44" column="94" selection-start="1202" selection-end="1202" vertical-scroll-proportion="0.5736783">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="message.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/game/entities/message.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="26" selection-start="439" selection-end="453" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -101,17 +121,19 @@
       <file leaf-file-name="player.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/game/entities/player.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="162" column="47" selection-start="4398" selection-end="4398" vertical-scroll-proportion="0.0">
+            <state line="38" column="0" selection-start="806" selection-end="806" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="giftbag.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/game/entities/giftbag.js">
+      <file leaf-file-name="thumbpad.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/plugins/thumbpad.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="3" selection-start="453" selection-end="453" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="257" column="0" selection-start="8664" selection-end="8664" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -129,31 +151,28 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/lib/game/levels/room4.js" />
-        <option value="$PROJECT_DIR$/lib/game/entities/void.js" />
-        <option value="$PROJECT_DIR$/lib/game/entities/levelchange.js" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/lib/game/entities/collectable.js" />
-        <option value="$PROJECT_DIR$/lib/game/entities/mover.js" />
-        <option value="$PROJECT_DIR$/lib/game/entities/elevatorMusic.js" />
+        <option value="$PROJECT_DIR$/lib/game/entities/blocker.js" />
         <option value="$PROJECT_DIR$/lib/game/entities/elevator.js" />
-        <option value="$PROJECT_DIR$/lib/game/entities/trigger.js" />
         <option value="$PROJECT_DIR$/lib/game/entities/elevator-music.js" />
-        <option value="$PROJECT_DIR$/lib/game/entities/message.js" />
-        <option value="$PROJECT_DIR$/lib/game/entities/hurt.js" />
-        <option value="$PROJECT_DIR$/lib/game/entities/fall.js" />
-        <option value="$PROJECT_DIR$/lib/game/entities/player.js" />
+        <option value="$PROJECT_DIR$/lib/game/entities/stop-elevator-music.js" />
         <option value="$PROJECT_DIR$/lib/game/entities/giftbag.js" />
+        <option value="$PROJECT_DIR$/lib/plugins/thumpad.js" />
+        <option value="$PROJECT_DIR$/lib/plugins/dynscale.js" />
+        <option value="$PROJECT_DIR$/lib/game/entities/escalator.js" />
+        <option value="$PROJECT_DIR$/lib/game/entities/player.js" />
         <option value="$PROJECT_DIR$/lib/game/main.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/lib/game/entities/exit.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="22" />
-    <option name="width" value="1669" />
-    <option name="height" value="960" />
+    <option name="x" value="179" />
+    <option name="y" value="200" />
+    <option name="width" value="1600" />
+    <option name="height" value="1037" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -210,46 +229,6 @@
               <option name="myItemId" value="lib" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="weltmeister" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="balmain_xmas" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="balmain_xmas" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="plugins" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="entities" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="balmain_xmas" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="balmain_xmas" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -288,24 +267,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="entities" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="balmain_xmas" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="balmain_xmas" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="balmain" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -316,90 +277,38 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="FullScreen" value="false" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/media" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/lib/balmain" />
-      <recent name="$PROJECT_DIR$/lib/game/plugins" />
-      <recent name="$PROJECT_DIR$/lib/plugins/entities" />
-      <recent name="$PROJECT_DIR$/lib/game/entities" />
-      <recent name="$PROJECT_DIR$/media" />
-    </key>
   </component>
   <component name="RunManager">
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
-  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false">
-    <option name="USER" value="" />
-    <option name="PASSWORD" value="" />
-    <option name="mySSHConnectionTimeout" value="30000" />
-    <option name="mySSHReadTimeout" value="30000" />
-    <option name="LAST_MERGED_REVISION" />
-    <option name="MERGE_DRY_RUN" value="false" />
-    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
-    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
-    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
-    <option name="DETECT_NESTED_COPIES" value="true" />
-    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
-    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
-    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
-    <option name="FORCE_UPDATE" value="false" />
-    <option name="IGNORE_EXTERNALS" value="false" />
-    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e1cc3d48-e8ef-4078-be85-6a043b55f4f2" name="Default" comment="" />
-      <created>1354598505381</created>
-      <updated>1354598505381</updated>
+      <created>1355349962615</created>
+      <updated>1355349962615</updated>
     </task>
-    <task id="LOCAL-00001" summary="add background tiles&#10;">
-      <created>1354608485508</created>
-      <updated>1354608485508</updated>
-    </task>
-    <task id="LOCAL-00002" summary="add background tiles&#10;">
-      <created>1355211914179</created>
-      <updated>1355211914179</updated>
-    </task>
-    <task id="LOCAL-00003" summary="add background tiles&#10;">
-      <created>1355299878733</created>
-      <updated>1355299878733</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-<<<<<<< HEAD
-    <frame x="0" y="22" width="1669" height="960" extended-state="0" />
-=======
-    <frame x="127" y="137" width="1600" height="1166" extended-state="0" />
->>>>>>> Adding levels and images
+    <frame x="179" y="200" width="1600" height="1037" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32970026" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.16213389" sideWeight="0.42040458" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19901417" sideWeight="0.98738736" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32949087" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24984147" sideWeight="0.9923581" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -437,7 +346,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="add background tiles&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -450,108 +359,131 @@
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="add background tiles&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lib/game/entities/levelchange.js">
+    <entry file="file://$PROJECT_DIR$/lib/game/entities/pin-trigger.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="31" selection-start="438" selection-end="438" vertical-scroll-proportion="0.30726257" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="26" selection-start="738" selection-end="738" vertical-scroll-proportion="0.0" />
+        <state line="43" column="47" selection-start="914" selection-end="1036" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/game/entities/collectable.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="422" selection-end="422" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/game/entities/slip.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="13" selection-start="1179" selection-end="1179" vertical-scroll-proportion="0.6777996" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/game/entities/delay.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="17" selection-start="552" selection-end="552" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/game/entities/message.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="2" selection-start="1032" selection-end="1032" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/game/entities/blocker.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/game/entities/mover.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="36" selection-start="1447" selection-end="1447" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/game/entities/trigger.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="4" selection-start="1213" selection-end="1213" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/game/entities/elevator.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="8" selection-start="639" selection-end="643" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/game/entities/elevator-music.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="0" selection-start="1140" selection-end="1140" vertical-scroll-proportion="0.0">
-          <folding />
+        <state line="42" column="0" selection-start="0" selection-end="1299" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/game/entities/fall.js">
+    <entry file="file://$PROJECT_DIR$/lib/game/entities/stop-elevator-music.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="36" selection-start="659" selection-end="660" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/game/entities/hurt.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="7" selection-start="0" selection-end="840" vertical-scroll-proportion="0.0">
+        <state line="16" column="24" selection-start="415" selection-end="415" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/game/entities/giftbag.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="3" selection-start="453" selection-end="453" vertical-scroll-proportion="0.0">
+        <state line="21" column="3" selection-start="451" selection-end="451" vertical-scroll-proportion="0.0">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/game/entities/fall.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="25" selection-start="649" selection-end="649" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/game/entities/mover.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="12" selection-start="900" selection-end="917" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/plugins/thumbpad.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="257" column="0" selection-start="8664" selection-end="8664" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/game/entities/player.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="162" column="47" selection-start="4398" selection-end="4398" vertical-scroll-proportion="0.0">
+        <state line="38" column="0" selection-start="806" selection-end="806" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/game/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="82" column="31" selection-start="2453" selection-end="2453" vertical-scroll-proportion="0.6638756">
+        <state line="72" column="30" selection-start="2006" selection-end="2006" vertical-scroll-proportion="-14.423077">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/game/entities/levelchange.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="3" selection-start="0" selection-end="922" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/game/entities/message.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="26" selection-start="439" selection-end="453" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/game/entities/escalator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="68" column="24" selection-start="3707" selection-end="3707" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/game/entities/elevator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="63" column="81" selection-start="1302" selection-end="1369" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="27" selection-start="500" selection-end="500" vertical-scroll-proportion="-6.0416665">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/game/entities/exit.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="94" selection-start="1202" selection-end="1202" vertical-scroll-proportion="0.5736783">
           <folding />
         </state>
       </provider>
